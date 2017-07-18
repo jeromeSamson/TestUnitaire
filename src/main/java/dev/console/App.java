@@ -52,7 +52,7 @@ public class App {
 		try {
 			LOG.info(expression + "=" + calculatrice.additionner(expression));
 		} catch (Exception e) {
-			LOG.info("L'expression" + expression + " est invalide");
+			LOG.info("L'expression " + expression + " est invalide");
 		}
 
 	}

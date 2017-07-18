@@ -502,3 +502,27 @@
 				L'expressionap^zakcpzdf est invalide
 16:03:56.196 [main] INFO  dev.console.App -
 				Au revoir :-(
+16:08:46.540 [main] INFO  dev.console.App -
+				**** Application Calculatrice ****
+16:08:46.542 [main] INFO  dev.console.App -
+				Au revoir :-(
+16:09:00.974 [main] INFO  dev.console.App -
+				**** Application Calculatrice ****
+16:09:00.982 [main] INFO  dev.console.App -
+				app=0
+16:09:13.695 [main] INFO  dev.console.App -
+				**** Application Calculatrice ****
+16:09:13.697 [main] INFO  dev.console.App -
+				Au revoir :-(
+16:10:27.738 [main] INFO  dev.console.App -
+				**** Application Calculatrice ****
+16:10:29.627 [main] INFO  dev.service.CalculService -
+				Evaluation de l'expression : test
+16:10:29.668 [main] INFO  dev.console.App -
+				L'expressiontest est invalide
+16:10:36.427 [main] INFO  dev.service.CalculService -
+				Evaluation de l'expression : 1+1
+16:10:36.427 [main] INFO  dev.console.App -
+				1+1=2
+16:10:40.195 [main] INFO  dev.console.App -
+				Au revoir :-(
